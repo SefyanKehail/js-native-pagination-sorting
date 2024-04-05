@@ -1,0 +1,22 @@
+.sort {
+    cursor: pointer;
+    font-size: large;
+    padding: 10px;
+}
+
+.sort:hover {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 13%);
+}
+
+.sort:active {
+    box-shadow: 2px 2px 5px hsl(0, 0%, 100%);
+}
+
+table {
+    width: 800px;
+}
+
+.body {
+    height: 100%;
+}
